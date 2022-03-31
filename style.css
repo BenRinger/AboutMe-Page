@@ -2,10 +2,10 @@
 
 .orange-text{color: orange}
 
-h1{color: antiquewhite;}
+h1{color: rgb(0, 0, 0);}
 
 h2{font-size: 18px;
-color: antiquewhite;}
+color: rgb(0, 0, 0);}
 
 ul{color: blue ;
 font-family: 'Courier New', Courier, monospace;}
@@ -14,7 +14,7 @@ font-family: 'Courier New', Courier, monospace;}
 border-radius: 50%;
 border-style: solid;}
 
-body{background-color: black;}
+body{background-color: rgba(49, 8, 88, 0.582);}
 
 
 
