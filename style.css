@@ -1,0 +1,21 @@
+.red-text{color: red;}
+
+.orange-text{color: orange}
+
+h1{color: antiquewhite;}
+
+h2{font-size: 18px;
+color: antiquewhite;}
+
+ul{color: blue ;
+font-family: 'Courier New', Courier, monospace;}
+
+.photo-border{border-color: rgb(209, 67, 67);
+border-radius: 50%;
+border-style: solid;}
+
+body{background-color: black;}
+
+
+
+
