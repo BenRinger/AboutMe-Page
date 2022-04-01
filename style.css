@@ -7,14 +7,28 @@ h1{color: rgb(0, 0, 0);}
 h2{font-size: 18px;
 color: rgb(0, 0, 0);}
 
-ul{color: blue ;
+ul{color: rgb(27, 122, 98) ;
 font-family: 'Courier New', Courier, monospace;}
 
-.photo-border{border-color: rgb(209, 67, 67);
+.photo-border{border-color: rgb(23, 64, 117);
 border-radius: 50%;
 border-style: solid;}
 
-body{background-color: rgba(49, 8, 88, 0.582);}
+body{background-color: rgb(10, 47, 78);
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 400px) {
+  
+    .center-all{
+       margin: auto;
+       text-align: center;
+   }
+}
+
+
+
 
 
 
